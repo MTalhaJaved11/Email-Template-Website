@@ -1,0 +1,129 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    text-align: center;
+}
+
+header img{
+    height: 81px;
+}
+.Backbody{
+    background-image: url("../Assets/MomAntiagingHero.jpg");
+    background-position: center ;
+    background-repeat: no-repeat;
+    height: 1045px;
+    margin-top: 5px;
+}
+.formom{
+    margin: 20px 0px 20px 0px;
+}
+
+#Day-text{
+    font-family: 'Times New Roman';
+    height: 29px;
+    font-size: 28px;
+    text-transform: uppercase;
+    color: #00c4cc;
+    margin-bottom: 20px;
+}
+
+.headings{
+    font-size: 22px;
+    color: #fff;
+    font-family: sans-serif;
+}
+
+#btn{
+    background-color: #ff879e;
+    width: 170px;
+    border-radius: 32px;
+    border: none;
+    color: #fff;
+    font-weight: bolder;
+    font-size: 22px;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    text-transform: capitalize;
+}
+
+.justintime h1{
+    margin-top: 60px;
+    color: #00c4cc;
+    font-family: sans-serif;
+    font-size: 37px;
+}
+.justintime p{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.pictures{
+    margin-top: 5px;
+}
+
+.two_para{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.promo_code{
+    color: #00c4cc;
+    margin-top: 20px;
+    font-size: 24px;    
+}
+
+.socialicons img{
+    width: 32px;
+    height: 32px;
+}
+
+.contact-details{
+    margin-top: 40px;
+}
+
+
+.ending-text p{
+    font-size: 11px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 35px;
+
+}
+.contact-details{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.pink-link-contact a{
+    color: #ff879e;
+}
+
+/* --------------footer Styling----------------- */
+
+
+.footer{
+    margin-bottom: 25px;
+    margin-top: 20px;
+}
+
+.footer p img{
+    height: 32px;
+    vertical-align: middle;
+}
+.footer p span{
+    margin-left: 5px;
+    vertical-align: middle;
+}
+
+
+#line{
+    margin: 30px auto;
+    border:none;
+    border-top:5px solid #B5E4DC;
+    width:640px;
+}
