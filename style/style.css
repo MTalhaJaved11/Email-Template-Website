@@ -11,7 +11,7 @@ header img{
     height: 81px;
 }
 .Backbody{
-    background-image: url("./Assets/MomAntiagingHero.jpg");
+    background-image: url("../Assets/MomAntiagingHero.jpg");
     background-position: center ;
     background-repeat: no-repeat;
     height: 1045px;
@@ -76,7 +76,8 @@ header img{
 .promo_code{
     color: #00c4cc;
     margin-top: 20px;
-    font-size: 24px;    
+    font-size: 24px; 
+    font-weight: normal;   
 }
 
 .socialicons img{
